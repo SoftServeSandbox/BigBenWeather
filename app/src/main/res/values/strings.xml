@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Big Ben Weather</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name= "query">http://api.openweathermap.org/data/2.5/weather?q=</string>
+</resources>
